@@ -1,2 +1,2 @@
 # ML-Projects
-Various Small ML Projects
+Various ML Projects
